@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833440092264",
+    "project_id": "tunischasse-c2f9d",
+    "storage_bucket": "tunischasse-c2f9d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833440092264:android:416c2300ff173d7c086bdd",
+        "android_client_info": {
+          "package_name": "com.imsc.tunischasse.tunis_chasse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkEO404yEInD4NKIn25ByWuF0hMaXbVpQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
